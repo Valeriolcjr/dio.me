@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisão</title>
+</head>
+<body>
+    <h1 id="inicio">Explicando HTML e cia</h1>
+    <hr/>
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#como-surgiu">Como surgiu a internet</li></a>
+        <li><a href="#html">O que é HTML e como funciona</li></a>
+        <li><a href="#tags">O que são tags e sua funcionalidade</li></a>
+    </ul>
+
+    <h2 id="como-surgiu">Como surgiu a internet</h2>
+    <small><a href="#inicio">Voltar ao inicio</small></a>
+    <p>O físico britânico Tim Berners-Lee é o nome responsável pela Internet como conhecemos hoje. Em 1989, ele inventou a World Wide Web (WWW), um sistema que, em pouco tempo, permitiria a criação da Internet comercial e, assim, a popularização da rede.</p>
+    <p>A Internet surgiu nos anos 60, na época da Guerra Fria, nos Estados Unidos. O Departamento de Defesa americano pretendia criar uma rede de comunicação de computadores em pontos estratégicos.</p>
+    
+    <h2 id="html">O que é HTML e como funciona</h2>
+    <small><a href="#inicio">Voltar ao inicio</small></a>
+    <p>HTML (Linguagem de Marcação de Hipertexto) é o código que você usa para estruturar uma página web e seu conteúdo. Por exemplo, o conteúdo pode ser estruturado em parágrafos, em uma lista com marcadores ou usando imagens e tabelas.</p>
+    <p>Por ser uma linguagem baseada em marcações, na programação em HTML são usadas Tags para indicar como a informação marcada deve ser apresentada. Desse modo, as tags vão dando orientações ao navegador de internet sobre como as informações devem ser distribuídas e exibidas.</p>
+
+    <h2 id="tags">O que são Tags e sua funcionalidade</h2>
+    <small><a href="#inicio">Voltar ao inicio</small></a>
+    <p>A expressão “tag” significa literalmente “etiqueta”. Uma etiqueta é usada para marcar ou identificar algo, como a etiqueta de preços no mercado por exemplo. No HTML5, as tags tem o mesmo objetivo: marcar elementos. Ou seja, determinar onde um elemento começa e onde ele termina.</p>
+    <p>Os elementos HTML ou também chamados de tags HTML, são utilizados para informar ao navegador que tipo de estrutura é essa que está sendo construída, podendo ser títulos, parágrafos, imagens, links, entre outros.</p>
+
